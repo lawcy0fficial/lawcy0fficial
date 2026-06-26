@@ -789,3 +789,51 @@ $ ./chaathan.py -d target.com --fast
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00FF41,30:003300,70:001a00,100:000000&section=footer&reversal=false&text=☠+LAWCY0FFICIAL+☠&fontSize=28&fontColor=00FF41&fontAlignY=70&animation=twinkling"/>
 
 </div>
+
+---
+
+## 📡 SKILL RADAR — OPERATOR PROFICIENCY
+
+<div align="center">
+
+<!-- Embed this SVG in your repo and reference it here -->
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║   18 DOMAINS · ANIMATED DRAW-ON · MATRIX GREEN · HOVER TOOLTIPS    ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   ⚡ 100%  Web App Pentest · OWASP / API · Subdomain · Android BB  ║
+║   🔴  95%  OSINT · Red Team · Network Pentest · AI Agents           ║
+║   🟡  90%  Bug Bounty · Python/Bash · Tool Engineering              ║
+║   🟠  85%  Social Eng · Exploit Dev · Dark Web / OPSEC              ║
+║   ☁️   80%  Cloud Security · Malware · Wireless                      ║
+║   🐋  75%  Container / Kubernetes Security                           ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+[![Skill Radar](https://img.shields.io/badge/Skill_Radar-18_Domains_Mapped-00FF41?style=for-the-badge&labelColor=000000)](https://lawcy0fficial.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Hacker_Site-FF0000?style=for-the-badge&labelColor=000000)](https://lawcy0fficial.github.io)
+
+</div>
+
+---
+
+## 🌐 LIVE PORTFOLIO
+
+<div align="center">
+
+> **Full interactive hacker portfolio with matrix rain, animated skill bars, project showcase, cert wall, and live typewriter terminal — deploy to GitHub Pages in one step.**
+
+[![Deploy to GitHub Pages](https://img.shields.io/badge/🌐_Live_Portfolio-GitHub_Pages-00FF41?style=for-the-badge&labelColor=000000)](https://lawcy0fficial.github.io)
+
+```bash
+# To deploy your portfolio:
+# 1. Create repo: lawcy0fficial.github.io
+# 2. Upload portfolio.html as index.html
+# 3. Enable GitHub Pages in repo settings
+# 4. Live at: https://lawcy0fficial.github.io
+```
+
+</div>
